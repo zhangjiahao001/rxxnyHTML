@@ -1,0 +1,11 @@
+INDEX VERSION 1.126
+E:\git\rxxnyHTML\rxxny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3148549780.index
+\blx\src
+E:\git\rxxnyHTML\rxxny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\964476384.index
+\rxxny\src
+E:\git\rxxnyHTML\rxxny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3298691905.index
+\rxxny\src
+E:\git\rxxnyHTML\rxxny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1003941188.index
+\rxxny\src
+E:\git\rxxnyHTML\rxxny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2892866847.index
+\rxxny\src

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="rxxny">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <property name="context-root" value="/rxxny"/>
+        <property name="java-output-path" value="/rxxny/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>

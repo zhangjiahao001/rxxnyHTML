@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="rxxny"
+  id="myeclipse.1539568947993"
+  context-root="/rxxny"
+  j2ee-spec="6.0"
+  archive="rxxny.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

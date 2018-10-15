@@ -1,0 +1,14 @@
+#Mon Oct 15 14:05:31 CST 2018
+tomcat7Server.rxxny.contextRoot=/rxxny
+tomcat7Server.rxxny.altContextRoot=
+tomcat7Server.rxxny.deployIsOverProject=false
+tomcat7Server.rxxny.type=WebDeployment
+tomcat7Server.rxxny.deploymentPath=D\:\\Tomcat\\webapps\\rxxny
+tomcat7Server.rxxny.isUptoDate=true
+tomcat7Server.rxxny.isExploded=true
+tomcat7Server.rxxny.shouldOverwrite=false
+tomcat7Server.rxxny.IEARProjectName=
+tomcat7Server.rxxny.shouldBackup=false
+eclipse.preferences.version=1
+tomcat7Server.rxxny.isDeployed=true
+tomcat7Server.rxxny.noFileCopy=false
